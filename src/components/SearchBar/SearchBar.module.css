@@ -1,0 +1,10 @@
+.contenedor{
+    border-radius: 5px;
+    position:static;
+    top: 500px; 
+    display: center;
+    background-color: hwb(177 0% 0% / 0)  ;
+    padding: 10px;
+
+}
+
