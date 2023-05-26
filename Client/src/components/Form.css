@@ -1,0 +1,20 @@
+.contenedor {
+width: 500px;;
+background: rgba(239, 255, 255, 0);
+padding: 150px;
+margin: auto;
+margin-top: auto;
+border-radius: 5px;
+text-align: center;
+color: rgb(255, 255, 255);
+}
+.form {
+    width: 20px;
+    background-color: azure;
+}
+
+.contenedor img {
+    width: 100%;
+    margin-bottom: 0px;
+    
+}
